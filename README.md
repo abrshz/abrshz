@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Abraham Frontend web developer| React.js developer
 
 - 🔭 I’m currently working on clone of Netflix and Amazon websites.
-- 🌱 I’m currently learning in React.js with sample examples
-- 👯 I’m looking to collaborate on group discussion Evangadi.
+- 🌱 I’m currently learning in React.js with sample examples.
+- 👯 I’m looking to collaborate in React.js.
 - 📫 How to reach me:- trusewynur@gmail.com or WhatsApp: +211925799555
 
 <!--
