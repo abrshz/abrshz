@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Abraham Frontend web developer| React.js developer
 
-- 🔭 I’m currently working on Eangadi Forum.
+- 🔭 I’m currently working on Evangadi Forum and Geez production.
 - 🌱 I’m currently learning in React.js with sample examples.
 - 👯 I’m looking to collaborate in React.js.
-- 📫 How to reach me:- abrshwebdeveloper@gmail.com or WhatsApp: +211925799555
+- 📫 How to reach me:- abrshwebdeveloper@gmail.com or WhatsApp: +256708018971
 
 <!--
 **abrshz/abrshz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
