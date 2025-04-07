@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Abraham Frontend web developer| React.js developer
 
-- 🔭 I’m currently working on Evangadi Forum and Geez production.
+- 🔭 I’m currently working on Freelance.
 - 🌱 I’m currently learning in React.js with sample examples.
 - 👯 I’m looking to collaborate in React.js.
 - 📫 How to reach me:- abrshwebdeveloper@gmail.com or WhatsApp: +256708018971
